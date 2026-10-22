@@ -1,4 +1,4 @@
-name: Website Load Test with CSV Metrics
+name: Website Load Test with CSV Metric
 
 on:
   workflow_dispatch:
